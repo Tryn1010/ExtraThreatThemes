@@ -1,0 +1,32 @@
+[FIND]TH_LM - KICK : NEUTRAL <PA> 
+[REPLACE]TH_LM - KICK : NEUTRAL <PA>\nTH_LM - PRECIPICE - KICK : NEUTRAL
+[FIND]TH_LM - BASS : NEUTRAL, DANGER <PA>
+[REPLACE]TH_LM - BASS : NEUTRAL, DANGER <PA>\nTH_LM - PRECIPICE - SHAKER : NEUTRAL
+[FIND]TH_LM - PERC1 : NEUTRAL
+[REPLACE]TH_LM - PERC1 : NEUTRAL\nTH_LM - PRECIPICE - LEAD : NEUTRAL
+[FIND]TH_LM - PERC2 : NEUTRAL <PA>
+[REPLACE]TH_LM - PERC2 : NEUTRAL <PA>\nTH_LM - PRECIPICE - PLUCK : NEUTRAL
+[FIND]TH_LM - WEIRD : NEUTRAL, WEIRD
+[REPLACE]TH_LM - WEIRD : NEUTRAL, WEIRD\nTH_LM - PRECIPICE - SNARE : NEUTRAL
+[FIND]TH_LM - ARPS : NEUTRAL, HAPPY
+[REPLACE]TH_LM - ARPS : NEUTRAL, HAPPY\nTH_LM - PRECIPICE - PERC : NEUTRAL
+[FIND]TH_LM - NOISE : NEUTRAL, DANGER <PA>
+[REPLACE]TH_LM - NOISE : NEUTRAL, DANGER <PA>\nTH_LM - PRECIPICE - ARPBACK : NEUTRAL
+[FIND]TH_LM - SNARE : NEUTRAL
+[REPLACE]TH_LM - SNARE : NEUTRAL\nTH_LM - PRECIPICE - ARPS : NEUTRAL
+[FIND]TH_LM - PAD : HIGHKARMA
+[REPLACE]TH_LM - PAD : HIGHKARMA\nTH_LM - NOISE : NEUTRAL
+[FINDLINEEND]Layer : TH_LM - KICK, TH_LM - BASS, TH_LM - NOISE, TH_LM - PAD, TH_LM - PERC1
+[ADDAFTER]\nLayer : {The Precipice}TH_LM - PRECIPICE - SHAKER
+[REPLACE]Layer : {Waterfront Facility}TH_LM - KICK, {Waterfront Facility}TH_LM - BASS, {Waterfront Facility}TH_LM - NOISE, {Waterfront Facility}TH_LM - PAD, {Waterfront Facility}TH_LM - PERC1, {The Precipice}TH_LM - PRECIPICE - KICK
+[FINDLINEEND]Layer : TH_LM - KICK, TH_LM - BASS, TH_LM - NOISE, TH_LM - PAD, TH_LM - PERC1, TH_LM - ARPS
+[ADDAFTER]\nLayer : {The Precipice}TH_LM - PRECIPICE - PLUCK
+[REPLACE]Layer : {Waterfront Facility}TH_LM - KICK, {Waterfront Facility}TH_LM - BASS, {Waterfront Facility}TH_LM - NOISE, {Waterfront Facility}TH_LM - PAD, {Waterfront Facility}TH_LM - PERC1, {Waterfront Facility}TH_LM - ARPS, {The Precipice}TH_LM - PRECIPICE - LEAD
+[FINDLINEEND]Layer : TH_LM - KICK, TH_LM - BASS, TH_LM - NOISE, TH_LM - PAD, TH_LM - PERC1, TH_LM - ARPS, TH_LM - PERC2
+[ADDAFTER]\nLayer : {The Precipice}TH_LM - PRECIPICE - PERC
+[REPLACE]Layer : {Waterfront Facility}TH_LM - KICK, {Waterfront Facility}TH_LM - BASS, {Waterfront Facility}TH_LM - NOISE, {Waterfront Facility}TH_LM - PAD, {Waterfront Facility}TH_LM - PERC1, {Waterfront Facility}TH_LM - ARPS, {Waterfront Facility}TH_LM - PERC2, {The Precipice}TH_LM - PRECIPICE - SNARE
+[FINDLINEEND]Layer : TH_LM - KICK, TH_LM - BASS, TH_LM - NOISE, TH_LM - PAD, TH_LM - PERC1, TH_LM - ARPS, TH_LM - PERC2, TH_LM - SNARE
+[ADDAFTER]\nLayer : {The Precipice}TH_LM - PRECIPICE - ARPS
+[REPLACE]Layer : {Waterfront Facility}TH_LM - KICK, {Waterfront Facility}TH_LM - BASS, {Waterfront Facility}TH_LM - NOISE, {Waterfront Facility}TH_LM - PAD, {Waterfront Facility}TH_LM - PERC1, {Waterfront Facility}TH_LM - ARPS, {Waterfront Facility}TH_LM - PERC2, {Waterfront Facility}TH_LM - SNARE, {The Precipice}TH_LM - PRECIPICE - ARPBACK
+[FINDLINEEND]Layer : TH_LM - KICK, TH_LM - BASS, TH_LM - NOISE, TH_LM - PAD, TH_LM - PERC1, TH_LM - ARPS, TH_LM - PERC2, TH_LM - SNARE, TH_LM - WEIRD
+[REPLACE]Layer : {Waterfront Facility}TH_LM - KICK, {Waterfront Facility}TH_LM - BASS, {Waterfront Facility}TH_LM - NOISE, {Waterfront Facility}TH_LM - PAD, {Waterfront Facility}TH_LM - PERC1, {Waterfront Facility}TH_LM - ARPS, {Waterfront Facility}TH_LM - PERC2, {Waterfront Facility}TH_LM - SNARE, {Waterfront Facility}TH_LM - WEIRD, {The Precipice}TH_LM - PRECIPICE - NOISE

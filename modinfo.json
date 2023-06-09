@@ -1,0 +1,9 @@
+﻿{
+	"id": "Trynsextrathreats",
+	"name": "Extra Threat Themes",
+	"version": "0.1.0",
+	"authors": "Tryn",
+	"description": "Adds some threat music to a couple threat music missing regions!<LINE> Wall threat theme - Axye, Drainage threat theme - Pooteas Bird,<LINE>Precipice Theme - Aki, underhang theme - BruhNoU, Shaded Citadel Theme - Snoodle, <LINE>Rubicon Theme - the MSC Developers ",
+	"requirements": ["crs"],
+	"requirements_names": [ "Custom Region Support" ]
+}
