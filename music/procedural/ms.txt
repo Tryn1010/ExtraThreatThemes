@@ -1,0 +1,19 @@
+TH_MS - DRUM1 : NEUTRAL
+TH_MS - BASS1 : NEUTRAL
+TH_MS - DRUM2 : NEUTRAL
+TH_MS - ARP1 : NEUTRAL
+TH_MS - ALT1 : NEUTRAL
+TH_MS - DRUM3 : NEUTRAL
+TH_MS - BELL1 : NEUTRAL
+TH_MS - ALT2 : NEUTRAL
+TH_MS - DRUM4 : NEUTRAL
+TH_MS - LEAD1 : NEUTRAL
+
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)|Auxiliary Transmission Array|Bitter Aerie}TH_MS - DRUM1
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)|Auxiliary Transmission Array|Bitter Aerie}TH_MS - BASS1
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)|Auxiliary Transmission Array|Bitter Aerie}TH_MS - DRUM2
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)}TH_MS - ARP1, {Auxiliary Transmission Array|Bitter Aerie}TH_MS - B - ALT1
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)|Auxiliary Transmission Array|Bitter Aerie}TH_MS - DRUM3
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)}TH_MS - BELL1, {Auxiliary Transmission Array|Bitter Aerie}TH_MS - B - ALT2
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)|Auxiliary Transmission Array|Bitter Aerie}TH_MS - DRUM4
+Layer : {Submerged Superstructure|Submerged Superstructure (The Heart)|Submerged Superstructure (Vents)|Auxiliary Transmission Array|Bitter Aerie}TH_MS - LEAD1

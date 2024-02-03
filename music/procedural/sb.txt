@@ -1,0 +1,25 @@
+TH_SB - KICK : NEUTRAL
+TH_SB - FILT - KICK : NEUTRAL
+TH_SB - CLICKS : NEUTRAL
+TH_SB - FILT - RAILS : NEUTRAL
+TH_SB - HARMONY : NEUTRAL
+TH_SB - FILT - RAILS2 : NEUTRAL
+TH_SB - BASS : NEUTRAL
+TH_SB - FILT - CLICKS : NEUTRAL
+TH_SB - EXTRABASS : NEUTRAL
+TH_SB - FILT - HARMONY : NEUTRAL
+TH_SB - MELODY : NEUTRAL
+TH_SB - FILT - MELODY : NEUTRAL
+TH_SB - MELODY2 : NEUTRAL
+TH_SB - FILT - SCREAMER : NEUTRAL
+TH_SB - RAILS : NEUTRAL
+TH_SB - FILT - CRUNCH : NEUTRAL
+
+Layer : {Subterranean|Primordial Underground}TH_SB - KICK, {Filtration System|Ancient Labyrinth}TH_SB - FILT - KICK
+Layer : {Subterranean|Primordial Underground}TH_SB - CLICKS, {Filtration System|Ancient Labyrinth}TH_SB - FILT - RAILS
+Layer : {Subterranean|Primordial Underground}TH_SB - HARMONY, {Filtration System|Ancient Labyrinth}TH_SB - FILT - RAILS2
+Layer : {Subterranean|Primordial Underground}TH_SB - BASS, {Filtration System|Ancient Labyrinth}TH_SB - FILT - CLICKS
+Layer : {Subterranean|Primordial Underground}TH_SB - EXTRABASS, {Filtration System|Ancient Labyrinth}TH_SB - FILT - HARMONY
+Layer : {Subterranean|Primordial Underground}TH_SB - MELODY, {Filtration System|Ancient Labyrinth}TH_SB - FILT - MELODY
+Layer : {Subterranean|Primordial Underground}TH_SB - MELODY2, {Filtration System|Ancient Labyrinth}TH_SB - FILT - SCREAMER
+Layer : {Subterranean|Primordial Underground}TH_SB - RAILS, {Filtration System|Ancient Labyrinth}TH_SB - FILT - CRUNCH

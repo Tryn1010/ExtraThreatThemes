@@ -1,2 +1,2 @@
-[FIND]BkgDroneVolume: 0
-[REPLACE]BkgDroneVolume: 0.45
+[FINDLINESTART]BkgDroneVolume
+[REPLACE]BkgDroneVolume: 0.3

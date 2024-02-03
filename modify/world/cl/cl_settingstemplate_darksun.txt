@@ -1,0 +1,2 @@
+[FINDLINEEND]Effects: LightBurn-0.3043478-20-20,
+[ADDAFTER]BkgDroneVolume: 0.3
