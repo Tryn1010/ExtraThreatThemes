@@ -1,9 +1,9 @@
 ﻿{
 	"id": "Trynsextrathreats",
 	"name": "Extra Threat Themes",
-	"version": "0.1.7",
+	"version": "0.2.1",
 	"authors": "Tryn",
-	"description": "Adds some threat music to a couple threat music missing regions!<LINE> day/night Wall threat themes - Axye, <LINE>Drainage/Undergrowth/Submerged/BitterAerie threat themes - Pooteas Bird,<LINE>Precipice Theme - Aki, underhang theme - BruhNoU, Shaded Citadel Theme - Snoodle <LINE>Rubicon Theme - the MSC Developers Subterranean/Filtration System threat themes - Sidera ",
+	"description": "Adds some threat music to a couple threat music missing regions!<LINE> day/night Wall threat themes - Axye, <LINE>Silent Construct/Drainage/Submerged threat themes - Pooteas Bird,<LINE>Precipice Theme - Aki, Undergrowth theme - BeanieBongle <LINE>underhang theme - BruhNoU, Shaded Citadel Theme - Snoodle <LINE>Rubicon Theme - the MSC Developers Subterranean/Filtration System threat themes - Sidera ",
 	"requirements": ["crs"],
 	"requirements_names": [ "Custom Region Support" ]
 }
